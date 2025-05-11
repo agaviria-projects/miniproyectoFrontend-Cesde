@@ -58,6 +58,6 @@ customerpurchase-frontend/
 └── vite.config.js
 
 **Alejandro Gaviria**  
-Proyecto realizado como entrega integradora – CESDE 2025.
+Proyecto realizado como entrega – CESDE 2025.
 
 
