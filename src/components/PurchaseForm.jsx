@@ -43,7 +43,6 @@ export default function PurchaseForm() {
 
   return (
     <form onSubmit={handleSubmit}>
-      <h2>Registrar Compra</h2>
       <input
         type="text"
         name="product"

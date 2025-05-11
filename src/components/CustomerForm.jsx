@@ -29,7 +29,6 @@ export default function CustomerForm() {
 
   return (
     <form onSubmit={handleSubmit}>
-      <h2>Registrar Cliente</h2>
       <input
         type="text"
         name="name"
