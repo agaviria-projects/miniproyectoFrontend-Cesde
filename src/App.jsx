@@ -7,9 +7,7 @@ function App() {
   return (
     <div className="container">
       <h1>Sistema de Registro Comercial</h1>
-      <h2 className="author">Proyecto Integrador - Alejandro Gaviria</h2>
-      <h3>CESDE 2025</h3>
-
+      
       <CustomerForm />
       <hr />
       <PurchaseForm />
