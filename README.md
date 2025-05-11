@@ -44,4 +44,20 @@ Incluye análisis de datos desde Python y exportación a Excel.
 ---
 
 ## 📂 Estructura
+customerpurchase-frontend/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── CustomerForm.jsx
+│ │ └── PurchaseForm.jsx
+│ ├── assets/
+│ │ └── Firma.png
+│ ├── App.jsx
+│ └── App.css
+├── README.md
+└── vite.config.js
+
+**Alejandro Gaviria**  
+Proyecto realizado como entrega integradora – CESDE 2025.
+
 
