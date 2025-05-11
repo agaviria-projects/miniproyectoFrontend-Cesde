@@ -6,8 +6,8 @@ import logo from './assets/Firma.png'; // ✅ Importar logo
 function App() {
   return (
     <div className="container">
-      {/*<h1>Sistema de Registro Comercial</h1>*/}
-      <h2 className="seccion-titulo">Registrar Cliente</h2>
+      <h1>Sistema de Registro Comercial</h1>
+      {/*<h2 className="seccion-titulo">Registrar Cliente</h2>*/}
       <CustomerForm />
       <hr />
       {/*<h2 className="seccion-titulo">Registrar Compra</h2>*/}
