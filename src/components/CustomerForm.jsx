@@ -28,6 +28,7 @@ export default function CustomerForm() {
   };
 
   return (
+    <h3 className="seccion-titulo">Registrar Cliente</h3>
     <form onSubmit={handleSubmit}>
       <input
         type="text"

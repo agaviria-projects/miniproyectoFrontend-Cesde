@@ -42,6 +42,7 @@ export default function PurchaseForm() {
   };
 
   return (
+    <h3 className="seccion-titulo">Registrar Compra</h3>
     <form onSubmit={handleSubmit}>
       <input
         type="text"
