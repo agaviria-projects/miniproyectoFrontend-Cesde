@@ -7,10 +7,10 @@ function App() {
   return (
     <div className="container">
       <h1>Sistema de Registro Comercial</h1>
-      <h3 className="seccion-titulo">Registrar Cliente</h3>
+      <h2 className="seccion-titulo">Registrar Cliente</h2>
       <CustomerForm />
       <hr />
-      <h3 className="seccion-titulo">Registrar Compra</h3>
+      <h2 className="seccion-titulo">Registrar Compra</h2>
       <PurchaseForm />
 
       {/* Pie de página personalizado */}
