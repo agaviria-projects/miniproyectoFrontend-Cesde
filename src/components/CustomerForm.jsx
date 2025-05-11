@@ -18,7 +18,7 @@ export default function CustomerForm() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post('http://localhost:8080/api/customers', formData);
+      await axios.post('https://miniproyectocesde-production.up.railway.app/api/customers', formData);
       alert('Cliente registrado con éxito');
       setFormData({ name: '', email: '', phone: '' });
     } catch (error) {
